@@ -1,6 +1,6 @@
 # Project-001 :Survey Form
 
-!(Project_001_.png)
+![project outcome](https://github.com/sevvalbektas/Netflix-Project/blob/main/img/Project_001_.png)
 
 ## Description
 Project aims to create survey form within HTML and CSS.
