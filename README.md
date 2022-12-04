@@ -1,6 +1,6 @@
 # Project-001 :Survey Form
 
-![Project 001 Snapshot](Project_001_.png)
+!(Project_001_.png)
 
 ## Description
 Project aims to create survey form within HTML and CSS.
