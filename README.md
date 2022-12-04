@@ -8,7 +8,8 @@ Project aims to create survey form within HTML and CSS.
 ## Project Skeleton 
 
 ```
-001-survey-form (folder)
+
+Netflix-Project (folder)
 |
 |----readme.md               
 |----solution
